@@ -12,12 +12,7 @@ body {
     margin-top: 40px;
     padding: 5px;
 }
-.header > h1 {
-    letter-spacing: 6px;
-}
-.mid-text {
-    font-style: italic;
-}
+
 table {
     background-color: gray;
     border: 1px solid #dddddd;
